@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CRYPTON016
-- 👀 I’m interested in Cloud Security Architect
+- 👀 I’m interested in Cloud Security Architecture and DevSecOps
 - 🌱 I’m currently learning GCP and Terraform
 - 💞️ I’m looking to collaborate on any projects started from scratch ((with just an idea we can work things out))
 - 📫 How to reach me ~~  cryptoguy016@gmail.com
